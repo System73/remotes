@@ -168,6 +168,7 @@ with a justification) or open an issue.
 * Stayforlong [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
 * Streamloots [Open positions](https://careers.streamloots.com/)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
+* System73 Ltd. (Only applies to the Canary Islands, unless you prefer the contractor/self-employee option.) [Open positions](https://system73.com/careers/) 
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * Stuart [Open positions](https://stuart.com/careers/)
 * The Hotels Network (not all teams remote, remote job postings are clearly stated as such) [Open positions](https://info.thehotelsnetwork.com/en/careers)
